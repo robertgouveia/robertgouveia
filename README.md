@@ -1,7 +1,7 @@
 # 🕹️ Robert Gee
 **` Digital Creator (Games/Websites/Youtube)`**
 
-I am an indie game developer and content creator building games and making fun educational content. All my coding projects are built with the lack of any other creators tools. All video content is build with the aspiration of helping others! I publish tutorials and fun content on my [Youtube Channel!]("https://www.youtube.com/channel/UCBMk8v6nNEw632Ym18G_ZYQ")
+I am a programmer and content creator building games and making fun educational content. All my coding projects are built with the lack of any other creators tools. All video content is build with the aspiration of helping others! I publish tutorials and fun content on my [Youtube Channel!]("https://www.youtube.com/channel/UCBMk8v6nNEw632Ym18G_ZYQ")
 ##
 ![YouTube Channel Views](https://custom-icon-badges.demolab.com/youtube/channel/views/UCBMk8v6nNEw632Ym18G_ZYQ?style=for-the-badge)
 ![YouTube Channel Subscribers](https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCBMk8v6nNEw632Ym18G_ZYQ?style=for-the-badge)
