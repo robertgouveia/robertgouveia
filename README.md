@@ -13,10 +13,3 @@ I also do Youtube in my free time for education content!
 ### 💼 Languages And Tools
           
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
-
-<br />
-
-#
-
-### 📊 Stats
-![Robert's Github Stats](https://github-readme-stats.vercel.app/api?username=robertgouveia&show_icons=true&theme=gruvbox)
