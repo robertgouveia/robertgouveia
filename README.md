@@ -11,9 +11,6 @@ I also do Youtube in my free time for education content!
 
 ---
 ### 💼 Languages And Tools
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
           
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
 
