@@ -1,3 +1,3 @@
 # Robert Gouveia
 
-Full Stack Engineer Trainee
+Full Stack Engineer
