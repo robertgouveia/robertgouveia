@@ -1,9 +1,4 @@
-# 💫 About Me:
-🌱 I’m currently learning C#, .NET and Blazor<br/>
-📖 Self Taught Full Stack Engineer. <br/>
-⌨️ Building a SaaS platform in the future! <br/>
-⚙️ Very Technical when it comes to work preference. <br/>
-
+# C# Software Developer and Entreprenuer.
 
 # 💻 Tech Knowledge:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
