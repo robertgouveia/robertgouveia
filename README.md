@@ -1,9 +1,6 @@
 
 # Hi, I'm Robert! 👋
 
-👩‍💻 I'm currently working on a Password Manager written in GO
-
-🧠 I'm currently learning Golang
 ## 🚀 About Me
 I'm a full stack developer...
 
